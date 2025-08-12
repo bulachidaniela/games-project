@@ -7,7 +7,10 @@ importing images inconvenient). These editors make it easier to work with sprite
 terminal or clicking the "Run" button. A window will appear, and the game will start!![PHOTO-2025-03-29-20-41-21](https://github.com/user-attachments/assets/04f764af-7149-42be-8fe0-fd19b546d845) You’re first presented with a welcome screen, where you will see three buttons. The
 first button, "Start," will begin the game. The second button, "Help," provides
 instructions and information about how to play the game. Lastly, the "Exit" button
-allows you to stop the game and close the window.Your player controls a red ship,
+allows you to stop the game and close the window.
+![IMG_7409](https://github.com/user-attachments/assets/71a0fe4d-ee6b-4f64-8242-e97da855f925)
+
+Your player controls a red ship,
 which can be moved up, down, left, and right. Enemies, represented by violet ships of
 three different sizes, will appear on the screen. Depending on their size, the enemies
 may shoot and move at varying speeds—small ships are slower, while larger ones are
